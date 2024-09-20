@@ -111,7 +111,7 @@ function myCode(){
             padding:'20px',
             marginTop:'2%',
             fontWeight: `600`,
-            marginBottom: '3%'
+            marginBottom: '4%'
         }}>Call 021-334-798-84</button>
        </div>
          </>
